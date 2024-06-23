@@ -1,1 +1,1 @@
-This is a connect between Vnets in same region (regional) and in difference region (global) 
+# Virtual network peering enables you to connect two or more virtual networks in Azure seamlessly. This will allow resources in either virtual network to directly connect and communicate with resources in the peered virtual network.
