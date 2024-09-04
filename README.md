@@ -1,5 +1,7 @@
 # Azure Vnet Peering 
 
+![Vnet Peering (2)](https://github.com/user-attachments/assets/672222ea-5fb7-4543-92cd-38a099fef769)
+
 ## Project Overview
 Azure Virtual Network (VNet) Peering is a powerful feature that allows you to seamlessly connect two or more Azure Virtual Networks (VNets) in the same or different regions. VNet Peering enables you to route traffic between VNets using private IP addresses, effectively extending your network and allowing resources in different VNets to communicate as if they were part of the same network.
 
